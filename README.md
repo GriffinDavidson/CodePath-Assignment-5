@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 The following **bonus** features are implemented:
 
 - [x] User can pull to refresh.
-- [ ] ser can load past photos infinitely.
+- [x] ser can load past photos infinitely.
 
 ## Video Walkthrough
 
