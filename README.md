@@ -24,8 +24,15 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:<br>
-Signup/Login Functionality <br>
-<img src='https://i.imgur.com/55vxVhz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Signup / Login Functionality <br>
+<img src='https://i.imgur.com/55vxVhz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+Homescreen Icon / Styled Launch Screen <br>
+<img src='https://i.imgur.com/uDSTfNP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+Post + caption + server / Infinite Scroll <br>
+<img src='https://i.imgur.com/4S2MqW0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+Pull to Refresh <br>
+<img src='https://i.imgur.com/AjKZ9di.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ## Notes
 
