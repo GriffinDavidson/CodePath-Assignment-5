@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 The following **bonus** features are implemented:
 
 - [x] User can pull to refresh.
-- [x] ser can load past photos infinitely.
+- [x] User can load past photos infinitely.
+- [x] User is remembered and logged in automatically after appp restarts.
+- [x] User can log out.
 
 ## Video Walkthrough
 
