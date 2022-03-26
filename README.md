@@ -29,7 +29,7 @@ Signup / Login Functionality <br>
 Homescreen Icon / Styled Launch Screen <br>
 <img src='https://i.imgur.com/uDSTfNP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
 Post + caption + server / Infinite Scroll <br>
-<img src='https://i.imgur.com/4S2MqW0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+<img src='https://i.imgur.com/PRGeYK0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
 Pull to Refresh <br>
 <img src='https://i.imgur.com/AjKZ9di.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
