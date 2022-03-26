@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Signup/Login Functionality
+Signup/Login Functionality <br>
 <img src='https://i.imgur.com/55vxVhz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
